@@ -3,7 +3,6 @@ Hi, I'm Gedomi
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
  <img src="https://gpvc.arturio.dev/NotGedomi" alt="Profile views" align='right'/> <a href="https://github.com/NotGedomi/NotGedomi"> </a> 
 <br/>
-<a href="https://ibb.co/89dk7M9"><img src="https://i.ibb.co/BBrkCLB/image.webp" alt="image" border="0" width="320" align="left"></a>
 <hr>
 
 ```
